@@ -115,3 +115,91 @@ section.descricao p{
     height: 68px;
     border-radius: 50%;
 }
+/*--------------------------------------------------*/
+section.experience{
+    position: relative;
+    top: 100%;
+    color: white;
+}
+
+section.experience h2{
+    color: white;
+    font-size: 80px;
+}
+
+section.experience h2 span{
+    color: #007ACC;
+}
+
+section.experience h3{  
+    font-size: 25px; 
+    margin-top: -20px; 
+    margin-bottom: 25px;  
+}
+
+section.experience h3 span{
+    color: rgb(4, 135, 223);    
+}
+
+section.experience p{
+    font-size: 20px;    
+}
+/*--------------------------------------*/
+section.education{
+    top: 150%;    
+    position: relative;
+    margin-bottom: 250px;
+
+    color: white;
+}
+
+section.education h2{
+    color: white;
+    font-size: 80px;
+}
+
+section.education h2 span{
+    color: #007ACC;
+}
+
+section.education h3{  
+    font-size: 25px; 
+    margin-top: -20px; 
+    margin-bottom: 25px;  
+}
+
+section.education h3 span{
+    color: rgb(4, 135, 223);    
+}
+
+section.education p{
+    font-size: 20px;    
+}
+
+
+
+
+
+/*
+.experience{
+    top: 100%;
+    background: white;
+    position: relative;
+    width: 100%;
+    left: 0px;
+    height: 100%;
+    overflow-y: auto;
+    padding: 0 3%;
+}
+
+section.education{
+    top: 200%;
+    background: green;
+    position: absolute;
+    width: 100%;
+    left: 0px;
+    height: 100%;
+    overflow-y: auto;
+    padding: 0 3%;
+
+}*/
